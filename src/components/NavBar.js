@@ -15,7 +15,7 @@ const NavBar = ({ info, about, work, repo, email, themeState, setThemeState }) =
 
   return (
     // <div className="relative z-20 opacity-80 sticky top-0">
-    <div className="fixed w-full z-20 opacity-80 top-0">
+    <div className="fixed w-full z-40 opacity-80 top-0">
       <div className="navbar bg-base-100">
         <div className="xl:ml-56 navbar-start fadeleft2">
           <div tabIndex={0} className="">
