@@ -28,7 +28,7 @@ const About = ({ ref }) => {
 
         <div>
           <span className="w-1/4 inline-block">React</span>
-          <progress className="progress progress-success w-3/4" value="60" max="100"></progress>
+          <progress className="progress progress-success w-3/4" value="80" max="100"></progress>
         </div>
         <div>
           <span className="w-1/4 inline-block">Node</span>
